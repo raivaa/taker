@@ -4928,3 +4928,16 @@
 5/11/2025 | 8:18:58 PM | INFO | Trying to check user miner status... 
 5/11/2025 | 8:18:58 PM | INFO | Last mining time: 5/10/2025, 8:19:00 PM
 5/11/2025 | 8:18:58 PM | WARN | Mining already started, next mining time is: 5/11/2025, 8:19:00 PM
+5/12/2025 | 1:40:47 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/12/2025 | 1:40:47 AM | INFO | Start process for wallet 0xbF2122573807A3ff1C5873157f3286aE35848350 
+5/12/2025 | 1:40:48 AM | INFO | Trying To Login for wallet: 0xbF2122573807A3ff1C5873157f3286aE35848350 
+5/12/2025 | 1:40:49 AM | INFO | Login successful... 
+5/12/2025 | 1:40:49 AM | INFO | Trying to check user info... 
+5/12/2025 | 1:40:49 AM | INFO | User ID: 102971411 | Twitter: @raivamelany | Total Points: 1848000 
+5/12/2025 | 1:40:49 AM | INFO | Trying to check user miner status... 
+5/12/2025 | 1:40:53 AM | INFO | Last mining time: 5/10/2025, 8:19:00 PM
+5/12/2025 | 1:40:53 AM | INFO | Trying to start Mining for wallet: 0xbF2122573807A3ff1C5873157f3286aE35848350 
+5/12/2025 | 1:40:56 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/12/2025 | 1:40:56 AM | INFO | Trying to activate mining on-chain for wallet: 0xbF2122573807A3ff1C5873157f3286aE35848350 
+5/12/2025 | 1:41:19 AM | ERROR | Activate Mining Error: {"code":"UNKNOWN_ERROR","error":{"code":-32603,"message":"submit transaction to pool failed: Ok(ImmediatelyDropped)"},"payload":{"method":"eth_sendRawTransaction","params":["0x02f86e82046553830186a083200b2082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec001a014811c867c50028c45069a90d6af4ec7c753b1831b2e1b67cf6c8a538662d921a06da0fde19a1aa84f68c28b0f1f75cce0f66e38efa4ce6ec7580cbcfe1de13393"],"id":10,"jsonrpc":"2.0"},"shortMessage":"could not coalesce error"}
+5/12/2025 | 1:41:19 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
