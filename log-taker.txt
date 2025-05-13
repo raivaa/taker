@@ -4997,3 +4997,12 @@
 5/12/2025 | 8:21:31 PM | INFO | Trying to activate mining on-chain for wallet: 0xbF2122573807A3ff1C5873157f3286aE35848350 
 5/12/2025 | 8:21:38 PM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0xbF2122573807A3ff1C5873157f3286aE35848350"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x54","from":"0xbf2122573807a3ff1c5873157f3286ae35848350","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 5/12/2025 | 8:21:38 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/13/2025 | 1:38:14 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/13/2025 | 1:38:14 AM | INFO | Start process for wallet 0xbF2122573807A3ff1C5873157f3286aE35848350 
+5/13/2025 | 1:38:14 AM | INFO | Trying To Login for wallet: 0xbF2122573807A3ff1C5873157f3286aE35848350 
+5/13/2025 | 1:38:15 AM | INFO | Login successful... 
+5/13/2025 | 1:38:15 AM | INFO | Trying to check user info... 
+5/13/2025 | 1:38:16 AM | INFO | User ID: 102971411 | Twitter: @raivamelany | Total Points: 1872000 
+5/13/2025 | 1:38:16 AM | INFO | Trying to check user miner status... 
+5/13/2025 | 1:38:19 AM | INFO | Last mining time: 5/12/2025, 4:24:18 AM
+5/13/2025 | 1:38:19 AM | WARN | Mining already started, next mining time is: 5/13/2025, 4:24:18 AM
