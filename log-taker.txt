@@ -5682,3 +5682,15 @@
 5/24/2025 | 8:19:25 PM | INFO | Trying to check user miner status... 
 5/24/2025 | 8:19:25 PM | INFO | Last mining time: 5/23/2025, 8:20:51 PM
 5/24/2025 | 8:19:25 PM | WARN | Mining already started, next mining time is: 5/24/2025, 8:20:51 PM
+5/25/2025 | 1:45:20 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/25/2025 | 1:45:20 AM | INFO | Start process for wallet 0xbF2122573807A3ff1C5873157f3286aE35848350 
+5/25/2025 | 1:45:21 AM | INFO | Trying To Login for wallet: 0xbF2122573807A3ff1C5873157f3286aE35848350 
+5/25/2025 | 1:45:22 AM | INFO | Login successful... 
+5/25/2025 | 1:45:22 AM | INFO | Trying to check user info... 
+5/25/2025 | 1:45:23 AM | INFO | User ID: 102971411 | Twitter: @raivamelany | Total Points: 2112000 
+5/25/2025 | 1:45:23 AM | INFO | Trying to check user miner status... 
+5/25/2025 | 1:45:24 AM | INFO | Last mining time: 5/23/2025, 8:20:51 PM
+5/25/2025 | 1:45:24 AM | INFO | Trying to start Mining for wallet: 0xbF2122573807A3ff1C5873157f3286aE35848350 
+5/25/2025 | 1:45:24 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/25/2025 | 1:45:24 AM | INFO | Trying to activate mining on-chain for wallet: 0xbF2122573807A3ff1C5873157f3286aE35848350 
+5/25/2025 | 1:45:31 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x9a9dd02b6dd09a4b4ce0b6335abb5572c7ce3558b67872faabf838f59e83d102 
